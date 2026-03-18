@@ -3,6 +3,7 @@
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
 
+
 ## 🧠 Algorithm
 1. Set variable `a` to the result of the expression `0 == True`.
 2. Set variable `b` to the result of the expression `False == False`.
