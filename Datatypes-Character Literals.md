@@ -7,6 +7,7 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 1. Print the character `'T'`.
 2. Print the character `'a'`.
 
+
 ## 🧾 Program
 ```
 a='T'
